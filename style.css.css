@@ -3,7 +3,8 @@ body{
     padding: 0;
     background: -webkit-linear-gradient(left,#fde7eb,#d76b80);
     display: flex;
-    height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
     justify-content: center;
     align-items: center;
 
