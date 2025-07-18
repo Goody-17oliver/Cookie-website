@@ -142,7 +142,7 @@ p {
 }
 
 .image {
-    background-color: #f8d6dcef;
+    
     width: 260px; /* Fixed width for the cookie image */
     border-radius: 30% 0 30% 0;
     flex-shrink: 0; /* Prevent cookie image from shrinking too much */
